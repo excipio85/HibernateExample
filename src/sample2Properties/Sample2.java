@@ -45,7 +45,7 @@ public class Sample2 extends Application {
 
         Person p1 = new Person();
         p1.setFirstname("Joachim");
-        p1.setLastname("Huszarek");
+        p1.setLastname("Test");
 
         Person p2 = new Person();
         p2.setFirstname("TestFirstname");
